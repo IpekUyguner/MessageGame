@@ -13,3 +13,10 @@ java -cp SocketGame-1.0-SNAPSHOT.jar Main server
 java -cp SocketGame-1.0-SNAPSHOT.jar Main client
 ```
 
+Alternatively, you can directly run the script to run everything.
+```
+bash run_server.sh
+bash run_client.sh
+```
+
+
